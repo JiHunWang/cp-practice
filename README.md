@@ -29,3 +29,7 @@
   - 14725.py (Trie and DFS)
 - silver-3
   - 14425.py (Basic Trie)
+
+## Union Find
+- gold-5
+  - 1717.py (Implementation of UF)
